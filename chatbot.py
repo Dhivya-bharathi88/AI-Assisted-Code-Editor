@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.set_page_config(
-    page_title="Sergio Dataset Generator",
+    page_title="AI Assisted Code",
     page_icon="🌟",
     layout="wide"
 )
@@ -581,7 +581,7 @@ def generate_enterprise_dataset(
     return dataset
 
 def main():
-    st.title("🌟 Quasar Dataset Generator")
+    st.title("🌟 AI Assisted Code Tool")
 
     # Sidebar configuration
     with st.sidebar:
